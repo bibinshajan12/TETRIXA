@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neon Color Palette -->
+    <color name="neon_cyan">#FF00FFFF</color>
+    <color name="neon_purple">#FF9D00FF</color>
+    <color name="neon_pink">#FFFF00FF</color>
+    <color name="neon_blue">#FF0080FF</color>
+    <color name="neon_green">#FF00FF80</color>
+    <color name="neon_yellow">#FFFFFF00</color>
+    <color name="neon_orange">#FFFF8000</color>
+    <color name="neon_red">#FFFF0040</color>
+    
+    <!-- Dark Background Colors -->
+    <color name="dark_bg_primary">#FF0A0A15</color>
+    <color name="dark_bg_secondary">#FF151520</color>
+    <color name="dark_bg_tertiary">#FF1A1A2E</color>
+    <color name="dark_bg_quaternary">#FF202035</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFCCCCCC</color>
+    <color name="text_neon">#FF00FFFF</color>
+    <color name="text_disabled">#FF666666</color>
+    
+    <!-- UI Element Colors -->
+    <color name="grid_line">#3300FFFF</color>
+    <color name="ghost_piece">#8000FFFF</color>
+    <color name="button_glow">#FF00FFFF</color>
+    <color name="button_bg">#FF00FFFF</color>
+    <color name="button_text">#FF000000</color>
+    
+    <!-- Legacy colors (kept for compatibility) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

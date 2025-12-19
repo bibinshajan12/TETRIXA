@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neon Button Style -->
+    <style name="NeonButton">
+        <item name="android:background">@drawable/neon_button_pressed</item>
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+    
+    <!-- Neon Text Style -->
+    <style name="NeonText">
+        <item name="android:textColor">@color/text_neon</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <!-- Neon Text Large Style -->
+    <style name="NeonTextLarge">
+        <item name="android:textColor">@color/text_neon</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <!-- Neon Card Style -->
+    <style name="NeonCard">
+        <item name="android:background">@drawable/neon_card_background</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+</resources>
+

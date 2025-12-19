@@ -24,7 +24,7 @@ Classic Tetris with modern design and smooth drag controls
 
 - **Platform**: Android
 - **Min SDK**: 24 (Android 7.0)
-- **Target SDK**: 34 (Android 14)
+- **Target SDK**: 35 (Android 15)
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
 - **Architecture**: Single Activity with Compose Navigation

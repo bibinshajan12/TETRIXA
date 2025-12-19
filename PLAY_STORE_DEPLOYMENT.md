@@ -136,7 +136,7 @@ buildTypes {
 defaultConfig {
     applicationId = "com.yourcompany.tetrixa"  // Change this
     minSdk = 24
-    targetSdk = 34
+    targetSdk = 35
     versionCode = 1
     versionName = "1.0.0"  // Update format
     ...
@@ -183,7 +183,7 @@ android {
     defaultConfig {
         applicationId "com.tetrixa"  // Change to your package name
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1  // Increment for each release
         versionName = "1.0.0"  // User-visible version
     }
@@ -670,6 +670,6 @@ For issues or questions:
 
 **Last Updated**: [Current Date]
 **App Version**: 1.0.0
-**Target SDK**: 34
+**Target SDK**: 35
 **Min SDK**: 24
 

@@ -316,7 +316,7 @@ When releasing updates:
 - Version Name: `1.0.0`
 
 **Min SDK**: 24 (Android 7.0)
-**Target SDK**: 34 (Android 14)
+**Target SDK**: 35 (Android 15)
 
 **Keystore**: `tetrixa-release-key.jks` (in project root)
 

@@ -1,4 +1,4 @@
-package com.example.tetrixa
+package com.tetrixa
 
 import androidx.compose.animation.core.animateFloat
 import androidx.compose.animation.core.animateFloatAsState
@@ -21,7 +21,7 @@ import androidx.compose.ui.layout.onSizeChanged
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.tetrixa.ui.theme.*
+import com.tetrixa.ui.theme.*
 import kotlinx.coroutines.delay
 
 /**

@@ -1,4 +1,4 @@
-package com.example.tetrixa
+package com.tetrixa
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -25,7 +25,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import android.content.Context
 import androidx.compose.ui.platform.LocalContext
-import com.example.tetrixa.ui.theme.*
+import com.tetrixa.ui.theme.*
 import kotlinx.coroutines.delay
 
 /**

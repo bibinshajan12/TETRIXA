@@ -309,7 +309,7 @@ When releasing updates:
 
 **AAB Location**: `app/build/outputs/bundle/release/app-release.aab`
 
-**Application ID**: `com.example.tetrixa`
+**Application ID**: `com.tetrixa`
 
 **Version**: 
 - Version Code: `1`

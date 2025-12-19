@@ -1,4 +1,4 @@
-package com.example.tetrixa
+package com.tetrixa
 
 import android.graphics.Paint
 import android.view.View

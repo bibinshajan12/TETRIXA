@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tetrixa"
+    namespace = "com.tetrixa"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.tetrixa"
+        applicationId = "com.tetrixa"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

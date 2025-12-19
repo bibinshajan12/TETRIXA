@@ -1,4 +1,4 @@
-package com.example.tetrixa.ui.theme
+package com.tetrixa.ui.theme
 
 import android.app.Activity
 import android.os.Build

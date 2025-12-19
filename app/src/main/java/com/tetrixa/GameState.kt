@@ -1,4 +1,4 @@
-package com.example.tetrixa
+package com.tetrixa
 
 /**
  * Represents the current game state

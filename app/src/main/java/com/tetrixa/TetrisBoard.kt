@@ -1,4 +1,4 @@
-package com.example.tetrixa
+package com.tetrixa
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.fillMaxSize
@@ -15,7 +15,7 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.input.pointer.*
 import androidx.compose.ui.layout.onSizeChanged
 import androidx.compose.ui.platform.LocalDensity
-import com.example.tetrixa.ui.theme.*
+import com.tetrixa.ui.theme.*
 import kotlin.math.min
 import kotlin.math.abs
 import kotlinx.coroutines.launch

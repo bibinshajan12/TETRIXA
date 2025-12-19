@@ -1,7 +1,7 @@
-package com.example.tetrixa
+package com.tetrixa
 
 import android.graphics.Color
-import com.example.tetrixa.ui.theme.*
+import com.tetrixa.ui.theme.*
 
 /**
  * Represents a Tetromino piece with its shape and color

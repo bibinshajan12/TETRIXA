@@ -6,7 +6,7 @@
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # Keep game classes
--keep class com.example.tetrixa.** { *; }
+-keep class com.tetrixa.** { *; }
 
 # Keep Compose classes
 -keep class androidx.compose.** { *; }

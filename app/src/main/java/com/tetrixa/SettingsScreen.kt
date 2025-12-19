@@ -1,4 +1,4 @@
-package com.example.tetrixa
+package com.tetrixa
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -13,7 +13,7 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.tetrixa.ui.theme.*
+import com.tetrixa.ui.theme.*
 
 /**
  * Settings screen with game configuration options

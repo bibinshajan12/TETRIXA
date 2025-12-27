@@ -64,7 +64,7 @@ Since we do not collect any personal information, there is no personal data to a
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- **Email**: [Your contact email]
+- **Email**: bibinshaja90@gmail.com
 - **GitHub**: [https://github.com/bibinshajan12/TETRIXA](https://github.com/bibinshajan12/TETRIXA)
 
 ## Consent
